@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://archiver1210.github.io/</id>
+    <id>https://archiver1210.github.io/</id>
     <title>Gridea</title>
-    <updated>2022-02-25T13:07:55.353Z</updated>
+    <updated>2022-02-25T13:12:07.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://archiver1210.github.io/"/>
-    <link rel="self" href="https://https://archiver1210.github.io/atom.xml"/>
+    <link rel="alternate" href="https://archiver1210.github.io/"/>
+    <link rel="self" href="https://archiver1210.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://archiver1210.github.io/images/avatar.png</logo>
-    <icon>https://https://archiver1210.github.io/favicon.ico</icon>
+    <logo>https://archiver1210.github.io/images/avatar.png</logo>
+    <icon>https://archiver1210.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://archiver1210.github.io/post/hello-gridea/</id>
-        <link href="https://https://archiver1210.github.io/post/hello-gridea/">
+        <id>https://archiver1210.github.io/post/hello-gridea/</id>
+        <link href="https://archiver1210.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
